@@ -1,0 +1,243 @@
+[
+  {
+    "course": "DATA601",
+    "title": "Probability & Statistics",
+    "program": "MSDS",
+    "professors": [
+      "Leonid Koralov",
+      "Sandra Cerrai",
+      "Jonathan Fernandes",
+      "Anna Szczekutowicz"
+    ],
+    "difficulty": "hard",
+    "coding_level": "low",
+    "math_level": "high",
+    "focus": ["probability", "statistics", "theory"],
+    "career_paths": ["Data Scientist", "ML Engineer"],
+    "reviews": [
+      "Very math-heavy, especially if you’re rusty on probability",
+      "Conceptually important but not very applied",
+      "Depends a lot on professor clarity"
+    ]
+  },
+  {
+    "course": "DATA602",
+    "title": "Principles of Data Science",
+    "program": "MSDS",
+    "professors": [
+      "Fardina Alam",
+      "Tammy Perrin",
+      "Sujeong Kim"
+    ],
+    "difficulty": "medium",
+    "coding_level": "medium",
+    "math_level": "low",
+    "focus": ["data pipeline", "python", "data wrangling"],
+    "career_paths": ["Data Analyst", "Data Scientist"],
+    "reviews": [
+      "Good intro but feels high-level",
+      "Assignments are practical but not too difficult",
+      "Useful if new to data science workflow"
+    ]
+  },
+  {
+    "course": "DATA603",
+    "title": "Principles of Machine Learning",
+    "program": "MSDS",
+    "professors": [
+      "Babak Azimi-Sadjadi",
+      "Kemal Davaslioglu"
+    ],
+    "difficulty": "hard",
+    "coding_level": "high",
+    "math_level": "medium",
+    "focus": ["machine learning", "models", "theory + applications"],
+    "career_paths": ["ML Engineer", "Data Scientist"],
+    "reviews": [
+      "One of the most important courses in the program",
+      "Assignments can be time-consuming",
+      "Good balance of theory and implementation"
+    ]
+  },
+  {
+    "course": "DATA604",
+    "title": "Data Representation and Modeling",
+    "program": "MSDS",
+    "professors": [
+      "Kendall Williams",
+      "Mestiyage Gunatilleka"
+    ],
+    "difficulty": "hard",
+    "coding_level": "medium",
+    "math_level": "high",
+    "focus": ["PCA", "manifolds", "graph methods"],
+    "career_paths": ["ML Engineer", "Research Scientist"],
+    "reviews": [
+      "Math-heavy (linear algebra + theory)",
+      "Homework instructions can be unclear sometimes",
+      "Lectures are insightful but dense"
+    ]
+  },
+  {
+    "course": "DATA605",
+    "title": "Big Data Systems",
+    "program": "MSDS",
+    "professors": [
+      "Tammy Perrin",
+      "Giacinto Paolo Saggese"
+    ],
+    "difficulty": "medium",
+    "coding_level": "medium",
+    "math_level": "low",
+    "focus": ["databases", "spark", "distributed systems"],
+    "career_paths": ["Data Engineer", "ML Engineer"],
+    "reviews": [
+      "More systems-focused than expected",
+      "Good exposure to real-world tools",
+      "Less math, more practical"
+    ]
+  },
+  {
+    "course": "DATA606",
+    "title": "Algorithms for Data Science",
+    "program": "MSDS",
+    "professors": [
+      "Abdirisak Mohamed"
+    ],
+    "difficulty": "hard",
+    "coding_level": "high",
+    "math_level": "medium",
+    "focus": ["algorithms", "graphs", "optimization"],
+    "career_paths": ["ML Engineer", "Software Engineer"],
+    "reviews": [
+      "Challenging and algorithm-heavy",
+      "Good for interviews and fundamentals",
+      "Requires strong coding + problem solving"
+    ]
+  },
+  {
+    "course": "DATA607",
+    "title": "Communication in Data Science",
+    "program": "MSDS",
+    "professors": [
+      "Kendall Williams",
+      "Mestiyage Gunatilleka"
+    ],
+    "difficulty": "easy",
+    "coding_level": "low",
+    "math_level": "low",
+    "focus": ["storytelling", "visualization", "presentations"],
+    "career_paths": ["Data Analyst", "Consultant"],
+    "reviews": [
+      "Easy A if you put in effort",
+      "Useful for presentations and storytelling",
+      "Less technical but important skill-wise"
+    ]
+  },
+
+  {
+    "course": "DATA612",
+    "title": "Deep Learning",
+    "program": "MSDS",
+    "professors": [
+      "Samet Ayhan"
+    ],
+    "difficulty": "hard",
+    "coding_level": "high",
+    "math_level": "medium",
+    "focus": ["neural networks", "CNNs", "transformers"],
+    "career_paths": ["ML Engineer", "AI Engineer"],
+    "reviews": [
+      "Very project-heavy",
+      "Covers modern deep learning topics",
+      "Workload can be intense"
+    ]
+  },
+  {
+    "course": "DATA641",
+    "title": "Natural Language Processing",
+    "program": "MSDS",
+    "professors": [
+      "Toki Inan",
+      "Armin Mehrabian"
+    ],
+    "difficulty": "hard",
+    "coding_level": "high",
+    "math_level": "medium",
+    "focus": ["NLP", "transformers", "LLMs"],
+    "career_paths": ["NLP Engineer", "AI Engineer"],
+    "reviews": [
+      "Focuses on modern NLP (transformers)",
+      "Projects are very relevant to industry",
+      "Can be coding intensive"
+    ]
+  },
+  {
+    "course": "DATA650",
+    "title": "Cloud Computing",
+    "program": "MSDS",
+    "professors": [
+      "Emre Gunduzhan"
+    ],
+    "difficulty": "medium",
+    "coding_level": "medium",
+    "math_level": "low",
+    "focus": ["cloud", "aws", "distributed systems"],
+    "career_paths": ["Cloud Engineer", "ML Engineer"],
+    "reviews": [
+      "Very practical and industry-oriented",
+      "Good intro to cloud tools",
+      "Less theory, more hands-on"
+    ]
+  },
+
+  {
+    "course": "MSAI632",
+    "title": "Generative AI",
+    "program": "MSAI",
+    "professors": ["Mohammad Nayeem Teli"],
+    "difficulty": "medium",
+    "coding_level": "high",
+    "math_level": "medium",
+    "focus": ["LLMs", "diffusion", "generative models"],
+    "career_paths": ["AI Engineer", "Research Engineer"],
+    "reviews": [
+      "Covers trending GenAI topics",
+      "Project-based and practical",
+      "Depends heavily on instructor"
+    ]
+  },
+
+  {
+  "course": "MSAI633",
+  "title": "Agentic AI",
+  "program": "MSAI",
+  "professors": [
+    "Tammy Perrin"
+  ],
+  "difficulty": "hard",
+  "coding_level": "high",
+  "math_level": "medium",
+  "focus": [
+    "llm agents",
+    "tool use",
+    "planning",
+    "multi-agent systems",
+    "autonomous workflows",
+    "reasoning"
+  ],
+  "career_paths": [
+    "AI Engineer",
+    "LLM Engineer",
+    "Applied Scientist",
+    "Research Engineer"
+  ],
+  "reviews": [
+    "Focuses on building LLM-powered agents and autonomous systems",
+    "Project-heavy with emphasis on real-world applications",
+    "Less math, more systems design and experimentation",
+    "Requires strong Python and familiarity with LLM frameworks",
+    "Highly relevant to current industry trends (LangChain, AutoGPT-style systems)"
+  ]
+}
+]
